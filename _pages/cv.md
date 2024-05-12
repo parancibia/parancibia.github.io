@@ -53,3 +53,14 @@ Service and leadership
 * Organizing committee of OIKOS Finland meeting 2025, Jyväskylä
 
 * Organizing committee of Nordic Protistology, Jyväskylä Finland 2025
+
+Professional experience
+======
+
+May 2023 – Present: Managing Editor at <a href='https://biolres.biomedcentral.com/'> Biological Research</a>
+
+January 2014 – Present: Managing Editor at <a href='https://revchilhistnat.biomedcentral.com/'> Revista Chilena de Historial Natural</a>
+
+November 2017 – November 2021: Managing Editor at Ecological Restoration Journal
+
+November 2014 – November 2017: Editorial Assistant at Ecological Restoration Journal
