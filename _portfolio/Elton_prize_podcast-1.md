@@ -1,5 +1,5 @@
 ---
-title: "Animal Ecology Podcast Episode (in Spotify"
+title: "Animal Ecology Podcast Episode"
 excerpt: "Connections Matter: How Patterns of Habitat Connectivity Affect Population Dynamics"
 collection: portfolio
 ---
