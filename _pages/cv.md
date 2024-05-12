@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecology & Evolution, Rutgers University (USA), 2021
+* M.S. in Marine Ecology, Universidad Católica de la Santísima Concepción (Chile), 2014
+* B.S. in Marine Biology, Universidad Católica de la Santísima Concepción, 2009
 
-Work experience
+Academic experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2021 - present: Postdoctoral Researcher
+  * University of Jyväskylä (PredCom)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July 2020 – June 20215: Graduate Assistant
+  * Rutgers Institute of Earth, Ocean , and Atmospheric Sciences (EOAS)
+
+* September 2018 – August 2020: Teaching Assistant
+  * Rutgers University
+  
+* March 2009 – July 2013: Part-time lecturer
+  * Facultad de Ciencias, Universidad Católica de la Santísima Concepción
+  
 
 Publications
 ======
@@ -61,4 +50,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizing committee of OIKOS Finland meeting 2025, Jyväskylä
+
+* Organizing committee of Nordic Protistology, Jyväskylä Finland 2025
