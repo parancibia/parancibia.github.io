@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Paulina A. Arancibia website"
+title                    : "Paulina A. Arancibia's website"
 title_separator          : "-"
 name                     : &name "Paulina A. Arancibia"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Paulina_2021_3.png"
   name             : "Paulina A. Arancibia"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher at University of Jyväkylä in PredCom Research group"
   location         : "Jyväskylä, Finland"
   employer         : "Jyväskylä University"
   uri              : # URL
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # @Pauli-arancibia
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
