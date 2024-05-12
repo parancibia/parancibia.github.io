@@ -11,7 +11,7 @@ I am a Chilean community ecologist. I earned my PhD at Rutgers University (USA) 
 
 My research interests lie in the intersection between experiments and theory. I am particularly interested in the effects of spatial configurations in metapopulation and metacommunity dynamics.
 
-Places I conducted my research
+Places I conducted my research & given talks
 ------
 [Map of places I've given talks and conducted research](https://parancibia.github.io/talkmap.html)
 
