@@ -16,4 +16,4 @@ Places I conducted my research & given talks
 [Map of places I've given talks and conducted research](https://parancibia.github.io/talkmap.html)
 
 
-<br/><img src='/images/IMG_6370.png' width='80%' />
+<br/><img src='/images/IMG_6370.png' width='50%' />
