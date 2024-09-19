@@ -10,11 +10,11 @@ language: Spanish
 ---
 
 Instructor of the laboratory activities for the following undegraduate courses:
-General Biology 
-Animal biology 
-General ecology 
-Biogeography 
-Genetics and evolution
-Fish biology
+* General Biology 
+* Animal Biology 
+* General Ecology 
+* Biogeography 
+* Genetics and Evolution
+* Fish Biology
 
 
