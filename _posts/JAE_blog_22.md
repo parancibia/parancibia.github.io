@@ -1,7 +1,7 @@
 ---
 title: 'Connections Matter: How Patterns of Habitat Connectivity Affect Population Dynamics'
 date: 2022-01-o4
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/JAE_blog_22/
 tags:
   - Ecology
   - Protists
